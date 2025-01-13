@@ -1,0 +1,7 @@
+Total Episodes: 16
+Average Reward: -14.71
+Average Episode Length: 126.00
+Average Gamma: 0.01
+Final 100 Episodes Average Reward: -14.71
+Best Episode Reward: 3.25
+Worst Episode Reward: -31.91
