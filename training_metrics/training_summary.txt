@@ -1,7 +1,6 @@
-Total Episodes: 474
-Average Reward: 55.86
-Average Episode Length: 263.86
-Average Gamma: -0.24
-Final 100 Episodes Average Reward: 60.00
-Best Episode Reward: 73.30
-Worst Episode Reward: 22.79
+=== Training Summary ===
+Total Episodes: 1390
+Average Reward: 59.44
+Best Episode Reward: 72.30
+Average Gamma: 0.515
+Success Rate: 0.000
