@@ -1,6 +1,6 @@
 === Training Summary ===
-Total Episodes: 1271
-Average Reward: 53.64
-Average Gamma: 0.247
-Final Actor Loss: 0.007
-Final Critic Loss: 0.303
+Total Episodes: 60
+Average Reward: -66.55
+Average Gamma: 0.267
+Final Actor Loss: -0.020
+Final Critic Loss: 0.518
