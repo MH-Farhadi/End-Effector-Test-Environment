@@ -1,6 +1,5 @@
-=== Training Summary ===
-Total Episodes: 32
-Average Reward: -121.75
-Average Gamma: 0.418
-Final Actor Loss: -0.011
-Final Critic Loss: 35.531
+Total Episodes: 668
+Overall Average Reward: 104.321
+Overall Average Gamma: 0.167
+Best Episode Reward: 159.865
+Worst Episode Reward: 10.484
