@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-Total Episodes: 642
-Overall Average Reward: 80.858
-Overall Average Gamma: 0.161
+Total Episodes: 972
+Overall Average Reward: 80.208
+Overall Average Gamma: 0.172
 Best Episode Reward: 125.084
 Worst Episode Reward: 10.309
-=======
-Total Episodes: 313
-Overall Average Reward: 105.749
-Overall Average Gamma: 0.165
-Best Episode Reward: 159.865
-Worst Episode Reward: 10.484
->>>>>>> 8bffa0b97968228e221cd21168e799b29de5de4d
