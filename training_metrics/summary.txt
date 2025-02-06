@@ -1,0 +1,6 @@
+Total Episodes: 1
+Average Reward: -583.902
+Best Reward: -583.902
+Average Gamma: 0.157
+Last 100 Episodes Avg Reward: -583.902
+Last 100 Episodes Avg Gamma: 0.157
