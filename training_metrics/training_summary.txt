@@ -1,5 +1,5 @@
-Total Episodes: 2083
-Overall Average Reward: -627.945
-Overall Average Gamma: 0.190
-Best Episode Reward: 7008.599
-Worst Episode Reward: -958.650
+Total Episodes: 50000
+Overall Average Reward: -37.775
+Overall Average Gamma: 0.316
+Best Episode Reward: 3004.526
+Worst Episode Reward: -380.136
