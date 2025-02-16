@@ -1,4 +1,4 @@
-Total Episodes: 68
-Mean Reward: 360.270
-Mean Gamma: 0.612
+Total Episodes: 433
+Mean Reward: 4.680
+Mean Gamma: 0.423
 Collisions Count: 0
