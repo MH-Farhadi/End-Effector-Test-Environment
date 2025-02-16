@@ -1,9 +1,4 @@
-Total Episodes: 3334
-Mean Reward: 32.585
-Mean Gamma: 0.103
-Best Episode: 87.042
-Worst Episode: 14.268
-
+Total Episodes: 68
+Mean Reward: 360.270
+Mean Gamma: 0.612
 Collisions Count: 0
-Goals Reached:    0
-Timeouts:        3334
