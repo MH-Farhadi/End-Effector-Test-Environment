@@ -1,9 +1,9 @@
-Total Episodes: 102
-Mean Reward: 65.519
-Mean Gamma: 0.537
-Final Loss: 328.625427
-Mean Loss: 296.174327
-Mean Value Loss: 593.689825
-Mean Policy Loss: -0.000124
-Mean Entropy Loss: -1.416941
+Total Episodes: 10001
+Mean Reward: 227.320
+Mean Gamma: 0.748
+Final Loss: 290.667542
+Mean Loss: 373.739749
+Mean Value Loss: 759.998833
+Mean Policy Loss: -0.000381
+Mean Entropy Loss: -1.277649
 Collisions Count: 0
