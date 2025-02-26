@@ -1,4 +1,4 @@
-Total Episodes: 95
-Mean Episode Reward: 257.427
-Collisions Count: 14
-Mean of Average-Gamma: 0.670
+Total Episodes: 98
+Mean Episode Reward: 161.186
+Collisions Count: 18
+Mean of Average-Gamma: 0.340
