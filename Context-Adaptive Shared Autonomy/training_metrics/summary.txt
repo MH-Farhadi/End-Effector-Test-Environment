@@ -1,0 +1,5 @@
+Total Episodes: 51
+Mean Episode Reward: 17.186
+Collisions Rate: 0.000
+Mean Gamma: 10.901
+Mean Goal Inference Accuracy: 0.310
